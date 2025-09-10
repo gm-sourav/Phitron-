@@ -5,10 +5,10 @@ public class Hasing {
 
      public static void main(String[] args) {
 
-    //     // key(country) Value(population)
+    // key(country) Value(population)
          HashMap<String, Integer> map = new HashMap<>();
 
-    //     // insertion:
+    // insertion:
 
         map.put("Bangladesh", 120);
         map.put("India", 130);
