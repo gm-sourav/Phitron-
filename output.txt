@@ -1,1 +1,4 @@
-voruos
+hello from -> Sourov
+Result Of -> Sourov = 175
+hello from -> Badhon Khan
+Result Of -> Badhon Khan = 170
