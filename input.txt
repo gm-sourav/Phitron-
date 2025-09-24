@@ -1,10 +1,10 @@
-3
-Gm Sourov
-15 80
-Rakib Khan
-12 80
-Akash Hasan 
-13 100
+6
+Sourov 15 80
+Rakib 12 80
+Akash 13 100
+Badhon 29 75
+Arif 10 50
+Sara 20 89
 
 
 
