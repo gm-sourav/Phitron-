@@ -1,6 +1,6 @@
-Arif 10 50
-Badhon 29 75
-Sourov 15 80
-Sara 20 89
-Rakib 12 99
-Akash 13 100
+Sara 20 100
+Arif 10 100
+Badhon 29 90
+Akash 13 78
+Rakib 12 88
+Sourov 15 99
